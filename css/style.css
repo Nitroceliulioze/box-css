@@ -1,0 +1,57 @@
+h2 {
+    
+    margin-bottom: 0;
+}
+
+p {
+    padding: 15px 5px 0 50px;
+}
+
+.box-one {
+    width: 100px;
+    height: 200px;
+    background-color: blue;
+}
+
+.box-two {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
+
+.box-two p {
+    padding: 0;
+}
+
+.left {
+    width: 100px;
+}
+
+.left img {
+    width: 100%;
+}
+.middle {
+    max-width: 300px;
+}
+
+.right {
+    width: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    text-align: center;
+    width: 100px;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: block;
+    padding: 10px 16px;
+    text-decoration: none;
+    background-color: bisque;
+}
